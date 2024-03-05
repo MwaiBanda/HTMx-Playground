@@ -1,6 +1,1 @@
-This is a Kotlin Multiplatform project targeting Server.
-
-* `/server` is for the Ktor server application.
-
-
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+![Screen Recording 2024-03-05 at 1 17 17 AM](https://github.com/MwaiBanda/HTMx-Playground/assets/49708426/f6bdf6ec-f64a-4866-9bf9-c81472727fdf)
